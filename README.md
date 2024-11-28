@@ -1,4 +1,5 @@
-# Global-Retail-Customer-Segmentation-with-RFM
+# Global-Retail
+Customer Segmentation with RFM
 ## Project Overview 
 This project demonstrates the implementation of RFM (Recency, Frequency, Monetary) analysis for customer segmentation at SuperStore, a global retail company. It aims to help the marketing team design targeted campaigns based on customer behaviors.
 Tools Used: 
